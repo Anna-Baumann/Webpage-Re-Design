@@ -1,0 +1,21 @@
+.yale {
+    text-align: center;
+}
+.d1 {
+    max-height:15px;
+    text-align: left;
+
+}
+.d2 {
+    max-height:50px;
+    background-color: aqua;
+}
+.container {
+    text-align:left;
+}
+
+.d2 {
+    min-height:200px;
+    border: 1pt solid black;
+}
+
